@@ -10,7 +10,7 @@ My Hardware:
 Setup
 -----
 
-I used this steps to install Mac OS X on an exteral disk attached via USB 3.
+I used this steps to install Mac OS X on an external disk attached via USB 3.
 
 Download Mac OS X and use [UniBeast][1] to create a bootable USB.
 
@@ -30,7 +30,7 @@ latter), after installing it will ask to reboot and again use the
 Flash Video card ROM (backup your original)
 ===========================================
 
-Befor doing this, find how to backup your current working ROM, in case you need
+Before doing this, find how to backup your current working ROM, in case you need
 to revert any changes.
 
 For some reason I could not make work the GTX 750 TI video card with it's
