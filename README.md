@@ -27,8 +27,11 @@ latter), after installing it will ask to reboot and again use the
     nva_drv=1
 
 
-Flash Video card ROM (backup your original ROM)
-===============================================
+Flash Video card ROM (backup your original)
+===========================================
+
+Befor doing this, find how to backup your current working ROM, in case you need
+to revert any changes.
 
 For some reason I could not make work the GTX 750 TI video card with it's
 default ROM, I need to flash under windows:
