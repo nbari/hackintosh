@@ -50,7 +50,9 @@ adjacent connector and got video signal again
 Sound
 -----
 
-TODO
+Using MultiBeast installed VoodooHDA v2.8.7:
+
+    Drivers > Audio > Universal > VoodooHDA v2.8.7
 
 
 References:
