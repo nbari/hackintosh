@@ -2,25 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>EthernetBuiltIn</key>
-	<string>Yes</string>
-	<key>GraphicsEnabler</key>
-	<string>Yes</string>
-	<key>IGPEnabler</key>
-	<string>Yes</string>
-	<key>Kernel Flags</key>
-	<string>kext-dev-mode=1 nvda_drv=1</string>
-	<key>Legacy Logo</key>
-	<string>Yes</string>
-	<key>Timeout</key>
-	<string>2</string>
-        <key>Graphics Mode</key>
-        <string>"1920x1200x32"</string>
-        <key>GenerateCStates</key>
-        <string>Yes</string>
-        <key>GeneratePStates</key>
-        <string>Yes</string>
-        <key>UseKernelCache</key>
-        <string>Yes</string>
+    <key>EthernetBuiltIn</key>
+    <string>Yes</string>
+    <key>GraphicsEnabler</key>
+    <string>Yes</string>
+    <key>IGPEnabler</key>
+    <string>Yes</string>
+    <key>Kernel Flags</key>
+    <string>kext-dev-mode=1 nvda_drv=1 darkwake=0 -gux_defer_usb2</string>
+    <key>Legacy Logo</key>
+    <string>Yes</string>
+    <key>Timeout</key>
+    <string>2</string>
+    <key>Graphics Mode</key>
+    <string>"1920x1200x32"</string>
+    <key>GenerateCStates</key>
+    <string>Yes</string>
+    <key>GeneratePStates</key>
+    <string>Yes</string>
+    <key>UseKernelCache</key>
+    <string>Yes</string>
 </dict>
 </plist>
