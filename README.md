@@ -5,7 +5,7 @@ My Hardware:
 * Motherboard: [H87I-Plus](http://www.asus.com/Motherboards/H87IPLUS/)
 * Video card: ASUS GeForce GTX 750 TI [GTX750TI-PH-2GD5](https://www.asus.com/Graphics_Cards/GTX750TIPH2GD5/)
 * 16 GB RAM
-* CPU i7-4770S 3.1GHZ (matches the Apple iMac "Core i7" 3.1 21.5-Inch (Late 2013) Specs)
+* CPU i7-4770S 3.1GHZ (matches the [Apple iMac "Core i7" 3.1 21.5-Inch (Late 2013) Specs][3])
 
 
 Setup
@@ -63,3 +63,4 @@ http://www.tonymacx86.com/
 
 [1]: http://www.tonymacx86.com/downloads.php?do=cat&id=3
 [2]: http://www.insanelymac.com/forum/topic/301416-nvidia-web-driver-updates-for-yosemite/
+[3]: http://www.everymac.com/systems/apple/imac/specs/imac-core-i7-3.1-21-inch-aluminum-late-2013-specs.html
