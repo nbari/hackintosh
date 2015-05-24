@@ -5,6 +5,7 @@ My Hardware:
 * Motherboard: [H87I-Plus](http://www.asus.com/Motherboards/H87IPLUS/)
 * Video card: ASUS GeForce GTX 750 TI [GTX750TI-PH-2GD5](https://www.asus.com/Graphics_Cards/GTX750TIPH2GD5/)
 * 16 GB RAM
+* CPU i7-4770S 3.1GHZ (matches the Apple iMac "Core i7" 3.1 21.5-Inch (Late 2013) Specs)
 
 
 Setup
@@ -17,7 +18,7 @@ Download Mac OS X and use [UniBeast][1] to create a bootable USB.
 Boot using the USB, while on the boot loader menu, press space bar and on the
 boot options type:
 
-    nv_disable=1
+    -v -x nv_disable=1
 
 That will allow to continue with the setup (bad graphics but you can fix that
 latter), after installing it will ask to reboot and again use the
