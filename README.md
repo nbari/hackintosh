@@ -58,6 +58,20 @@ Using MultiBeast installed VoodooHDA v2.8.7:
     Drivers > Audio > Universal > VoodooHDA v2.8.7
 
 
+Sleep mode
+----------
+
+I need to press the power on/off button to wake the machine, but I can also wake
+it up by pressing or moving the mouse using this settings:
+
+    <string>kext-dev-mode=1 nvda_drv=1 darkwake=0 -gux_defer_usb2</string>
+
+
+![desktop](desktop.jpg)
+
+![back](back.jpg)
+
+
 References:
 
 http://www.tonymacx86.com/
