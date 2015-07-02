@@ -72,6 +72,16 @@ it up by pressing or moving the mouse using this settings:
 ![back](back.jpg)
 
 
+Upgrading
+=========
+
+When updating to OS X Yosemite 10.10.4, in case you can't boot, try booting using:
+
+    nv_disable=1
+
+Then login and update the nvidia drivers from the `Systems Preferences` using
+the `Nvidia Driver Manager`
+
 References:
 
 http://www.tonymacx86.com/
