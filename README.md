@@ -40,7 +40,7 @@ For some reason I could not make work the GTX 750 TI video card with it's
 default ROM, I need to flash under windows:
 
     nvflash --protectoff
-    nvflash -6 Palit.GTX750Ti.2048.140214.rom
+    nvflash -6 GM107
     nvflash --protecton
 
 
